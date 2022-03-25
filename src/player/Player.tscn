@@ -58,7 +58,8 @@ script = ExtResource( 2 )
 [node name="Body" type="Node2D" parent="."]
 
 [node name="Sprite" type="Sprite" parent="Body"]
-position = Vector2( -25, -37 )
+position = Vector2( -87, -128 )
+scale = Vector2( 3.5, 3.5 )
 texture = ExtResource( 1 )
 centered = false
 hframes = 7
